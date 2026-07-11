@@ -180,19 +180,10 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/chowdhurysoumik">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/soumik-chowdhury-dev">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:chowdhurysoumik25@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<a href="https://linkedin.com/in/soumik-chowdhury-dev">LinkedIn</a> •
+<a href="mailto:chowdhurysoumik25@gmail.com">Email</a> •
+<a href="https://github.com/chowdhurysoumik">GitHub</a> •
+<a href="https://leetcode.com/u/soumik777/">LeetCode</a>
 </p>
 
 ---
