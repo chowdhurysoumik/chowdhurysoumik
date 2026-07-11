@@ -181,11 +181,11 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 <p align="center">
 
-<a href="https://github.com/soumikchow">
+<a href="(https://github.com/chowdhurysoumik">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/soumik-chowdhury">
+<a href="https://www.linkedin.com/in/soumik-chowdhury-dev">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
