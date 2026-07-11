@@ -177,21 +177,28 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 # 🌐 Connect With Me
 
+## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/soumik-chowdhury-dev">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="30"/>
+  <a href="https://linkedin.com/in/sourja-goswamy-dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:chowdhurysoumik25@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="30"/>
+
+  <a href="mailto:goswamysourja@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/chowdhurysoumik">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30"/>
+
+  <a href="https://github.com/goswamysourja">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/soumik777/">
-    <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="30"/>
+
+  <a href="https://leetcode.com/u/USERNAME/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
+         height="50"
+         alt="LeetCode"/>
   </a>
 </p>
 
