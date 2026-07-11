@@ -1,16 +1,210 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Soumik Chowdhury</h1>
 
-<!--
-**chowdhurysoumik/chowdhurysoumik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Full Stack Web Developer</b> • <b>AI/ML Enthusiast</b> • <b>Problem Solver</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;Artificial+Intelligence+%26+Machine+Learning;Backend+Engineering+%7C+Cloud+Computing;Always+Learning+%F0%9F%9A%80" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 B.Tech CSE (IoT, CS & BT) Student at **Institute of Engineering & Management**
+
+💻 Passionate about building **Full Stack applications** and **AI-powered solutions**
+
+🌱 Currently exploring
+
+- Cloud Computing
+- Backend Engineering
+- System Design
+- Modern Web Technologies
+
+🧠 Solved **200+ DSA problems** on LeetCode.
+
+🎯 Looking for **Software Engineering Internship & New Graduate Opportunities (2027).**
+
+---
+
+# 💼 Experience
+
+### 🏢 Full Stack Developer Intern
+
+**Aglow Eradu Private Limited**
+
+Worked on a **Multi-Tenant Transactional Commerce Engine**
+
+✨ Highlights
+
+- Built customer-facing commerce modules
+- Developed secure authentication
+- Integrated REST APIs
+- Worked with scalable backend services
+- Built responsive UI using Material UI
+
+---
+
+# 🌟 Featured Projects
+
+## 🏫 Multi-Tenant Commerce Engine
+
+> Full Stack Commerce Platform
+
+**Tech Stack**
+
+`JavaScript`
+`TypeScript`
+`Node.js`
+`PostgreSQL`
+`Material UI`
+
+---
+
+## 🧠 Brain Tumor MRI Classification
+
+> Deep Learning Medical Imaging Project
+
+**Tech Stack**
+
+`Python`
+`TensorFlow`
+`Keras`
+`CNN`
+`Scikit-Learn`
+`Gradio`
+
+✔ MRI Classification
+
+✔ 91.8% Accuracy
+
+✔ Real-Time Prediction
+
+---
+
+## 🧬 PCOS Detection using Hybrid Quantum Neural Network
+
+**Tech Stack**
+
+`Python`
+`PyTorch`
+`PennyLane`
+`ResNet50`
+`LIME`
+`Gradio`
+
+✔ Quantum Neural Network
+
+✔ Explainable AI
+
+✔ Medical Image Analysis
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,sql"/>
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react"/>
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+### AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumikchow&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=soumikchow&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumikchow&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 Highlights
+
+🏆 Full Stack Developer Intern
+
+🧠 AI & Machine Learning Projects
+
+💻 200+ DSA Problems Solved
+
+🚀 Passionate about Scalable Software Development
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/soumikchow">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/soumik-chowdhury">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:chowdhurysoumik25@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=soumikchow&style=for-the-badge&color=blue"/>
+
+</p>
+
+<h3 align="center">
+
+<i>"Code. Learn. Build. Repeat."</i>
+
+</h3>
