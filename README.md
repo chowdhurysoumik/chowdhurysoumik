@@ -147,9 +147,9 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumikchow&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chowdhurysoumik&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=soumikchow&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=soumikchowdhury&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -159,7 +159,7 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumikchow&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chowdhurysoumik&theme=tokyo-night"/>
 
 </p>
 
