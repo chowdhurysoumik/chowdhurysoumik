@@ -197,7 +197,7 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
   <a href="https://leetcode.com/u/USERNAME/">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
-         height="50"
+         height="60"
          alt="LeetCode"/>
   </a>
 </p>
