@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! 👋 I'm Soumik Chowdhury</h1>
-
 <p align="center">
   <b>Full Stack Web Developer</b> • <b>AI/ML Enthusiast</b> • <b>Problem Solver</b>
 </p>
