@@ -2,7 +2,6 @@
 <p align="center">
   <b>Full Stack Web Developer</b> • <b>AI/ML Enthusiast</b> • <b>Problem Solver</b>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;Artificial+Intelligence+%26+Machine+Learning;Backend+Engineering+%7C+Cloud+Computing;Always+Learning+%F0%9F%9A%80" />
 </p>
