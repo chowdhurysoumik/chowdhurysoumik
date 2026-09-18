@@ -199,16 +199,9 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 ---
 
-# 📈 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chowdhurysoumik&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
 
----
+
 
 # 🏅 Highlights
 
@@ -228,28 +221,28 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 # 🌐 Connect With Me
 
-<p align="center"><a href="https://linkedin.com/in/sourja-goswamy-dev">
+<p align="center"><a href="https://www.linkedin.com/in/soumik-chowdhury-dev/">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       height="50"
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:goswamysourja@gmail.com">
+  <a href="mailto:chowdhurysoumik25@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail"
       height="50"
       alt="Gmail"
     />
   </a>
-  <a href="https://github.com/goswamysourja">
+  <a href="https://github.com/chowdhurysoumik">
     <img
       src="https://skillicons.dev/icons?i=github"
       height="50"
       alt="GitHub"
     />
   </a>
-  <a href="https://leetcode.com/u/USERNAME/">
+  <a href="https://leetcode.com/u/soumik777/">
     <img
       src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
       height="50"
