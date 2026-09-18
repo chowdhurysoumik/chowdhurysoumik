@@ -1,7 +1,11 @@
 <h1 align="center">Hey there! 👋 I'm Soumik Chowdhury</h1>
+
 <p align="center">
-  <b>Full Stack Web Developer</b> • <b>AI/ML Enthusiast</b> • <b>Problem Solver</b>
+  <b>Full Stack Web Developer</b> •
+  <b>AI/ML Enthusiast</b> •
+  <b>Problem Solver</b>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;Artificial+Intelligence+%26+Machine+Learning;Backend+Engineering+%7C+Cloud+Computing;Always+Learning+%F0%9F%9A%80" />
 </p>
@@ -12,16 +16,17 @@
 
 🎓 B.Tech CSE (IoT, CS & BT) Student at **Institute of Engineering & Management**
 
-💻 Passionate about building **Full Stack applications** and **AI-powered solutions**
+💻 Passionate about building **scalable Full Stack applications** and **AI-powered solutions**
 
-🌱 Currently exploring
+🌱 Currently exploring:
 
-- Cloud Computing
-- Backend Engineering
-- System Design
-- Modern Web Technologies
+* Cloud Computing
+* Backend Engineering
+* System Design
+* Modern Web Technologies
+* Machine Learning & Explainable AI
 
-🧠 Solved **200+ DSA problems** on LeetCode.
+🧠 Solved **300+ DSA problems** on LeetCode.
 
 🎯 Looking for **Software Engineering Internship & New Graduate Opportunities (2027).**
 
@@ -37,11 +42,12 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 ✨ Highlights
 
-- Built customer-facing commerce modules
-- Developed secure authentication
-- Integrated REST APIs
-- Worked with scalable backend services
-- Built responsive UI using Material UI
+* Built customer-facing commerce modules
+* Developed secure authentication
+* Integrated REST APIs
+* Worked with scalable backend services
+* Built responsive interfaces using Material UI
+* Worked on multi-tenant application architecture
 
 ---
 
@@ -59,30 +65,18 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 `PostgreSQL`
 `Material UI`
 
----
+**Highlights**
 
-## 🧠 Brain Tumor MRI Classification
-
-> Deep Learning Medical Imaging Project
-
-**Tech Stack**
-
-`Python`
-`TensorFlow`
-`Keras`
-`CNN`
-`Scikit-Learn`
-`Gradio`
-
-✔ MRI Classification
-
-✔ 91.8% Accuracy
-
-✔ Real-Time Prediction
+* Multi-tenant commerce architecture
+* Customer-facing commerce modules
+* Secure authentication
+* REST API integration
+* Responsive Material UI
+* Scalable backend services
 
 ---
 
-## 🧬 PCOS Detection using Hybrid Quantum Neural Network
+## 🧠 PCOS Detection using Hybrid Quantum Neural Network
 
 **Tech Stack**
 
@@ -90,53 +84,106 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 `PyTorch`
 `PennyLane`
 `ResNet50`
-`LIME`
+`Quantum Neural Network`
+`Grad-CAM`
 `Gradio`
+`Docker`
+`Docker Hub`
+`AWS EC2`
+`Ubuntu`
+`SSH`
 
-✔ Quantum Neural Network
+**Highlights**
 
-✔ Explainable AI
+* Hybrid Quantum-Classical Neural Network
+* ResNet50 Transfer Learning
+* Quantum Neural Network using PennyLane
+* Explainable AI with Grad-CAM
+* Medical Image Classification
+* Interactive Gradio Interface
+* Dockerized Deployment
+* AWS EC2 Cloud Deployment
 
-✔ Medical Image Analysis
+🔗 **Repository:** https://github.com/chowdhurysoumik/pcos-detection-qnn.git
+
+---
+
+## 🧠 Brain Tumor MRI Classification
+
+**Tech Stack**
+
+`Python`
+`TensorFlow`
+`CNN`
+`OpenCV`
+`FastAPI`
+`LIME`
+`Docker`
+`AWS`
+
+**Highlights**
+
+* CNN-based MRI Classification
+* 91.8% Test Accuracy
+* LIME Explainable AI
+* FastAPI Web Application
+* Dockerized Deployment
+* AWS EC2 Deployment
+
+🔗 **Repository:** https://github.com/chowdhurysoumik/brain-tumor-classification.git
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### 👨‍💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,sql"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,sql" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma" />
 </p>
 
-### AI / ML
+### 🤖 AI / ML
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-### Tools
+<p align="center">
+
+</p>
+
+### ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
+</p>
+
+<p align="center">
+
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
@@ -144,9 +191,10 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chowdhurysoumik&theme=tokyonight&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=chowdhurysoumik&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -154,9 +202,10 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chowdhurysoumik&theme=tokyo-night"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chowdhurysoumik&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -167,7 +216,11 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 🧠 AI & Machine Learning Projects
 
-💻 200+ DSA Problems Solved
+⚛️ Hybrid Quantum Machine Learning
+
+💻 300+ DSA Problems Solved
+
+☁️ Cloud & Docker Deployment
 
 🚀 Passionate about Scalable Software Development
 
@@ -175,41 +228,46 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 # 🌐 Connect With Me
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sourja-goswamy-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+<p align="center"><a href="https://linkedin.com/in/sourja-goswamy-dev">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="50"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;&nbsp;
-
   <a href="mailto:goswamysourja@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      height="50"
+      alt="Gmail"
+    />
   </a>
-  &nbsp;&nbsp;
-
   <a href="https://github.com/goswamysourja">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      height="50"
+      alt="GitHub"
+    />
   </a>
-  &nbsp;&nbsp;
-
   <a href="https://leetcode.com/u/USERNAME/">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
-         height="50"
-         alt="LeetCode"/>
+    <img
+      src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
+      height="50"
+      alt="LeetCode"
+    />
   </a>
+
 </p>
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=soumikchow&style=for-the-badge&color=blue"/>
+<p align="center"><img
+ src="https://komarev.com/ghpvc/?username=chowdhurysoumik&style=for-the-badge&color=blue"
+ alt="Profile Views"
+/>
 
 </p>
 
 <h3 align="center">
-
-<i>"Code. Learn. Build. Repeat."</i>
-
+  <i>"Code. Learn. Build. Repeat."</i>
 </h3>
