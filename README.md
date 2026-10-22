@@ -254,12 +254,7 @@ Worked on a **Multi-Tenant Transactional Commerce Engine**
 
 ---
 
-<p align="center"><img
- src="https://komarev.com/ghpvc/?username=chowdhurysoumik&style=for-the-badge&color=blue"
- alt="Profile Views"
-/>
 
-</p>
 
 <h3 align="center">
   <i>"Code. Learn. Build. Repeat."</i>
